@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "",
-  "preferGlobal": true,
   "scripts": {
     "start": "node ./index.js",
     "init": "npm install && npm run build && npm start",
